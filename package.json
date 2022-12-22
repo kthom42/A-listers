@@ -4,5 +4,23 @@
   },
   "devDependencies": {
     "eslint": "^8.30.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "a-listers",
+  "description": "Cody Andrews Noah Bauer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kthom42/A-listers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kthom42/A-listers/issues"
+  },
+  "homepage": "https://github.com/kthom42/A-listers#readme"
 }
