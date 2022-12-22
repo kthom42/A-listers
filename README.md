@@ -2,5 +2,6 @@
 
 ## Collaborators
 
-Cody Andrews
 Keonte Thompson
+Cody Andrews
+Noah Bauer
