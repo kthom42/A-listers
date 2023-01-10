@@ -1,8 +1,4 @@
 # A-listers
-<<<<<<< Updated upstream
-Cody Andrews
-Noah Bauer
-=======
 An application that allows our users to trade items/skill sets between each other through our data base.
 
 ## Deployed Website
@@ -26,4 +22,3 @@ Collaborators:
 ## License
 
 Please refer to the LICENSE in the repo
->>>>>>> Stashed changes
