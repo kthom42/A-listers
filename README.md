@@ -3,7 +3,7 @@ An application that allows our users to trade items/skill sets between each othe
 
 ## Deployed Website
 
-[](url)
+[Exchange - Trade Website](url)
 
 ## Description
 
@@ -13,11 +13,11 @@ An application that allows our users to trade items/skill sets between each othe
 
 Collaborators:
 
-[Keonte Thompson]()
-[Cody Andrews]()
-[Noah Bauer]()
-[Laura Makokha]()
-[Matthew Gebara]()
+[Keonte Thompson](https://github.com/kthom42)
+[Cody Andrews](https://github.com/sorryz23)
+[Noah Bauer](https://github.com/Zeladras)
+[Laura Makokha](https://github.com/codinglov)
+[Matthew Gebara](https://github.com/GebaraMatthew)
 
 ## License
 
