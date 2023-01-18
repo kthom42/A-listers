@@ -7,7 +7,9 @@ const PORT = process.env.PORT || 3001;
 const sequelize = require("./config/connection");
 require("./models");
 app.engine("handlebars", hbs.engine);
+
 app.set("view engine", "handlebars");
+app.use(express.static(path.join(__dirname, 'public'))); // setting /public to be a static location
 
 app.get("/", (req, res) => {
   res.render("homepage");

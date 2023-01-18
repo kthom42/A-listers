@@ -7,7 +7,7 @@ of money transactions.
 
 ## Deployed Website
 
-[](url)
+[Exchange - Trade Website](url)
 
 ## Usage
 
@@ -18,11 +18,11 @@ run locally from local host port 3001
 
 ## Collaborators:
 
-[Keonte Thompson]()
-[Cody Andrews]()
-[Noah Bauer]()
-[Laura Makokha]()
-[Matthew Gebara]()
+[Keonte Thompson](https://github.com/kthom42)
+[Cody Andrews](https://github.com/sorryz23)
+[Noah Bauer](https://github.com/Zeladras)
+[Laura Makokha](https://github.com/codinglov)
+[Matthew Gebara](https://github.com/GebaraMatthew)
 
 ## License
 
