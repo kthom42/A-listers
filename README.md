@@ -10,9 +10,6 @@ of money transactions.
 
 [Exchange - Trade Website](https://exchangebarterapp.herokuapp.com/)
 
-## Website Repository
-[Exchange - Trade Website](https://github.com/kthom42/A-listers/)
-
 
 ## Usage
 
